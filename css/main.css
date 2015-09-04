@@ -1,0 +1,157 @@
+@font-face {
+  font-family: btnDescritption;
+  src: url("NeueHaasUnicaPro-Thin.otf");
+}
+* {
+  background: rgba(0,0,0,0.05);
+}
+body {
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.pane {
+  left: 0;
+  width: 100%;
+}
+.leftCol {
+  *zoom: 1;
+  float: left;
+  clear: none;
+  text-align: inherit;
+  width: 8.333333333333332%;
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: #433ea4;
+}
+.leftCol:before,
+.leftCol:after {
+  content: '';
+  display: table;
+}
+.leftCol:after {
+  clear: both;
+}
+.rightCol {
+  *zoom: 1;
+  float: left;
+  clear: none;
+  text-align: inherit;
+  width: 91.66666666666666%;
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: #433ea4;
+}
+.rightCol:before,
+.rightCol:after {
+  content: '';
+  display: table;
+}
+.rightCol:after {
+  clear: both;
+}
+.rightCol > i {
+  float: right;
+}
+.imageContainer {
+  left: 0;
+  width: 100%;
+  background-color: #645fd3;
+}
+.imageContent {
+  width: 30%;
+}
+.imageContent > img {
+  *zoom: 1;
+  width: auto;
+  max-width: 100%;
+  float: none;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  padding-right: 0;
+  height: 100%;
+  margin-top: 9%;
+  margin-bottom: 9%;
+  position: relative;
+}
+.imageContent > img:before,
+.imageContent > img:after {
+  content: '';
+  display: table;
+}
+.imageContent > img:after {
+  clear: both;
+}
+.canvasContainer {
+  width: 100%;
+  left: 0;
+  width: 100%;
+  margin: 0px;
+}
+.canvasContainer > img {
+  max-width: 100%;
+}
+.btnContainer {
+  *zoom: 1;
+  width: auto;
+  max-width: 100%;
+  float: none;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  padding-right: 0;
+  width: 100%;
+  z-index: 3;
+  margin-top: 2.5%;
+}
+.btnContainer:before,
+.btnContainer:after {
+  content: '';
+  display: table;
+}
+.btnContainer:after {
+  clear: both;
+}
+.deviceBtn,
+.uploadImageBtn,
+.sendImageBtn {
+  *zoom: 1;
+  float: left;
+  clear: none;
+  text-align: inherit;
+  width: 31.33333333333333%;
+  margin-left: 0%;
+  margin-right: 3%;
+  text-align: center;
+  font-family: btnDescritption;
+  font-size: 0.8rem;
+}
+.deviceBtn:before,
+.uploadImageBtn:before,
+.sendImageBtn:before,
+.deviceBtn:after,
+.uploadImageBtn:after,
+.sendImageBtn:after {
+  content: '';
+  display: table;
+}
+.deviceBtn:after,
+.uploadImageBtn:after,
+.sendImageBtn:after {
+  clear: both;
+}
+.deviceBtn:last-child,
+.uploadImageBtn:last-child,
+.sendImageBtn:last-child {
+  margin-right: 0%;
+}
+.uploadImageBtn {
+  margin-top: 1.3rem;
+}
+.btnDes {
+  margin-left: -0.25rem;
+}

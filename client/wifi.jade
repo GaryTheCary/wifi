@@ -1,0 +1,51 @@
+template(name="wifiConnection")
+    +btnMenuWifi
+    +selectPane
+
+    
+template(name="controlPane")
+    .container
+        .content
+          .onReady
+            button(class="ui inverted button") active 
+          .onCancel
+            button(class="ui inverted button") deactive
+template(name="btnMenuWifi")
+    .btnMenuContainer
+      form(action="http://localhost:8888/gifSpliter.php" method="POST" enctype="multipart/form-data")
+        .uploadBtn
+          label(for="wifichoose" class="circular ui icon button" id="wifiUplBtn")
+            i(class="large cloud upload icon" id="wifiiconUpl")
+          input(type="file" name = "wifichoose" id="wifichoose" style="display:none" accpet="image/*")
+        .sendBtn
+          label(class="circular ui icon button" id="wifiSendBtn" for="wifisubmit")
+            i(class="large send icon" id="wifiiconSend")
+          input(type="submit" id="wifisubmit" style="display:none" value="upload" name="submit")        
+
+template(name="selectPane")
+    .selectPaneContainer
+        .toggleContent
+          #spark-login
+          p Turn On The Function You Wanna Test With 
+          .eventOne
+            form(action="" method="POST" id="form")
+                label Function One
+                input(type="radio" name="args" id="_eventOne" value="") 
+                label on
+                input(type="radio" name="args" id="_eventOne_Off" value="") 
+                label Off
+                input(type="submit" value="Do it!")
+            textarea(name="stringValue" form="form" id="_matrix")      
+          //- For More Controlling Functions              
+          .eventTwo      
+              div(class="ui toggle checkbox")
+                input(type="checkbox" id="_eventTwo")
+                label Function Two
+          .eventThree      
+              div(class="ui toggle checkbox")
+                input(type="checkbox" id="_eventThree")
+                label Function Three
+                              
+
+
+

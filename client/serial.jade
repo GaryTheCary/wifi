@@ -1,0 +1,42 @@
+template(name="serialConnection")
+    +imageBody
+    //-+circleSVG
+    +btnMenu
+    +message
+
+
+template(name="imageBody")
+    .imageContainer
+        #imageCanvasContainer.imageContent
+            img(src="" alt="" id="uploadImg") 
+template(name="circleSVG")
+    .canvasContainer
+        img(src="halfcircle.png" alt="")
+
+template(name="btnMenu") 
+    .btnContainer
+        .deviceBtn
+            button(class="circular ui icon button" id="btnDev") 
+                i(class="large compress icon" id="iconDev")
+            .btnDes connect
+
+        .disconnectBtn
+            button(class="circular ui icon button" id="btnDis")
+                i(class="large expand icon" id="iconDis")
+            .btnDes disconnect       
+
+        .uploadImageBtn
+            label(for="choose" class="circular ui icon button" id="btnUpl")
+                i(class="large cloud upload icon" id="iconUpl")
+            input(type="file" id="choose" style="display: none" accpet="image/*")    
+            .btnDes upload
+                    
+        .sendImageBtn
+            button(class="circular ui icon button" id="btnSed")
+                i(class="large send icon" id="iconSed") 
+            .btnDes send  
+
+template(name="message")
+    #message
+    
+

@@ -1,0 +1,615 @@
+[Mon Aug 17 10:34:49 2015] [notice] Digest: generating secret for digest authentication ...
+[Mon Aug 17 10:34:49 2015] [notice] Digest: done
+[Mon Aug 17 10:34:49 2015] [notice] FastCGI: process manager initialized (pid 1243)
+[Mon Aug 17 10:34:49 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Aug 17 10:34:51 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Mon Aug 17 10:35:08 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/8beed561032b646f624d438d9166c50bcb84e375.css, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.jade.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:54:34 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.coffee.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/8beed561032b646f624d438d9166c50bcb84e375.css, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.jade.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:55:24 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.coffee.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/8beed561032b646f624d438d9166c50bcb84e375.css, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.jade.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 11:56:00 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.coffee.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/8beed561032b646f624d438d9166c50bcb84e375.css, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:21 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.jade.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.coffee.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:08:22 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:10:41 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:10:41 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client_204, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:10:41 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:10:41 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:10:41 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/xjs, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:10:41 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/8beed561032b646f624d438d9166c50bcb84e375.css, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/packages, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.jade.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/main.coffee.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 12:14:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/assets, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:27:23 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/f0fa9f82bfe592b77e59c01ffcd6eb1193263611.css, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:27:23 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/04a858da5cef652d85b17600116862b544df0784.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:27:50 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/f0fa9f82bfe592b77e59c01ffcd6eb1193263611.css, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:27:50 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/04a858da5cef652d85b17600116862b544df0784.js, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:20 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:20 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:20 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:20 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/client_204, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:20 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/xjs, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:20 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/images, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:26 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/search, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 13:29:41 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/xjs, referer: http://localhost:8888/gifSpliter.php
+[Mon Aug 17 21:42:29 2015] [notice] caught SIGTERM, shutting down
+[Tue Aug 18 12:11:56 2015] [notice] Digest: generating secret for digest authentication ...
+[Tue Aug 18 12:11:56 2015] [notice] Digest: done
+[Tue Aug 18 12:11:56 2015] [notice] FastCGI: process manager initialized (pid 1242)
+[Tue Aug 18 12:11:56 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Aug 18 12:12:16 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Tue Aug 18 12:33:10 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/gifSpliter.php
+[Tue Aug 18 21:43:31 2015] [notice] caught SIGTERM, shutting down
+[Wed Aug 19 10:55:53 2015] [notice] Digest: generating secret for digest authentication ...
+[Wed Aug 19 10:55:53 2015] [notice] Digest: done
+[Wed Aug 19 10:55:53 2015] [notice] FastCGI: process manager initialized (pid 873)
+[Wed Aug 19 10:55:53 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Aug 19 14:59:03 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/gifSpliter.php
+Not a JPEG file: starts with 0x47 0x49
+Not a JPEG file: starts with 0x47 0x49
+[Wed Aug 19 23:51:12 2015] [notice] caught SIGTERM, shutting down
+[Thu Aug 20 12:46:47 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 20 12:46:47 2015] [notice] Digest: done
+[Thu Aug 20 12:46:47 2015] [notice] FastCGI: process manager initialized (pid 1735)
+[Thu Aug 20 12:46:47 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Thu Aug 20 12:48:47 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/gifSpliter.php
+[Thu Aug 20 21:17:03 2015] [notice] caught SIGTERM, shutting down
+[Thu Aug 20 21:17:08 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 20 21:17:08 2015] [notice] Digest: done
+[Thu Aug 20 21:17:08 2015] [notice] FastCGI: process manager initialized (pid 5818)
+[Thu Aug 20 21:17:08 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Thu Aug 20 23:47:27 2015] [notice] caught SIGTERM, shutting down
+[Fri Aug 21 10:46:24 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 21 10:46:24 2015] [notice] Digest: done
+[Fri Aug 21 10:46:24 2015] [notice] FastCGI: process manager initialized (pid 1000)
+[Fri Aug 21 10:46:24 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Aug 21 10:52:36 2015] [notice] caught SIGTERM, shutting down
+[Fri Aug 21 10:52:41 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 21 10:52:41 2015] [notice] Digest: done
+[Fri Aug 21 10:52:41 2015] [notice] FastCGI: process manager initialized (pid 1476)
+[Fri Aug 21 10:52:41 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Aug 21 10:52:54 2015] [error] [client 172.16.2.84] Directory index forbidden by Options directive: /Users/GaryZren/Desktop/bluetooth/public/
+[Fri Aug 21 10:52:54 2015] [error] [client 172.16.2.84] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://172.16.2.84:8888/
+[Fri Aug 21 10:52:59 2015] [notice] caught SIGTERM, shutting down
+[Fri Aug 21 10:53:05 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 21 10:53:05 2015] [notice] Digest: done
+[Fri Aug 21 10:53:05 2015] [notice] FastCGI: process manager initialized (pid 1758)
+[Fri Aug 21 10:53:05 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Aug 21 10:53:09 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Fri Aug 21 10:53:27 2015] [notice] caught SIGTERM, shutting down
+[Fri Aug 21 10:53:31 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 21 10:53:31 2015] [notice] Digest: done
+[Fri Aug 21 10:53:31 2015] [notice] FastCGI: process manager initialized (pid 2146)
+[Fri Aug 21 10:53:31 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Aug 21 10:53:44 2015] [error] [client 172.16.2.84] client denied by server configuration: /Library/Application Support/appsolute/MAMP PRO/mamp/
+[Fri Aug 21 10:53:44 2015] [error] [client 172.16.2.84] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://172.16.2.84:3000/MAMP/?language=English
+[Fri Aug 21 10:53:57 2015] [notice] caught SIGTERM, shutting down
+[Fri Aug 21 10:54:02 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 21 10:54:02 2015] [notice] Digest: done
+[Fri Aug 21 10:54:02 2015] [notice] FastCGI: process manager initialized (pid 2485)
+[Fri Aug 21 10:54:02 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Aug 21 10:54:18 2015] [error] [client 172.16.2.84] client denied by server configuration: /Library/Application Support/appsolute/MAMP PRO/mamp/
+[Fri Aug 21 10:54:29 2015] [notice] caught SIGTERM, shutting down
+[Fri Aug 21 10:54:34 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 21 10:54:34 2015] [notice] Digest: done
+[Fri Aug 21 10:54:34 2015] [notice] FastCGI: process manager initialized (pid 2819)
+[Fri Aug 21 10:54:34 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Aug 21 12:05:48 2015] [error] [client ::1] Directory index forbidden by Options directive: /Users/GaryZren/Desktop/bluetooth/public/
+[Fri Aug 21 12:05:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/
+[Fri Aug 21 15:40:47 2015] [error] [client ::1] Directory index forbidden by Options directive: /Users/GaryZren/Desktop/bluetooth/public/
+[Fri Aug 21 17:34:39 2015] [notice] caught SIGTERM, shutting down
+[Sat Aug 22 13:38:09 2015] [notice] Digest: generating secret for digest authentication ...
+[Sat Aug 22 13:38:09 2015] [notice] Digest: done
+[Sat Aug 22 13:38:09 2015] [notice] FastCGI: process manager initialized (pid 2084)
+[Sat Aug 22 13:38:09 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Sat Aug 22 13:55:25 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/gifSpliter.php
+[Sat Aug 22 18:56:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Sat Aug 22 19:06:40 2015] [error] [client ::1] script '/Users/GaryZren/Desktop/bluetooth/public/ud.php' not found or unable to stat
+[Sat Aug 22 23:38:26 2015] [notice] caught SIGTERM, shutting down
+[Mon Aug 24 11:04:01 2015] [notice] Digest: generating secret for digest authentication ...
+[Mon Aug 24 11:04:01 2015] [notice] Digest: done
+[Mon Aug 24 11:04:01 2015] [notice] FastCGI: process manager initialized (pid 1200)
+[Mon Aug 24 11:04:01 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Aug 24 11:22:42 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/client.php
+[Mon Aug 24 13:44:47 2015] [notice] caught SIGTERM, shutting down
+[Mon Aug 24 13:44:53 2015] [notice] Digest: generating secret for digest authentication ...
+[Mon Aug 24 13:44:53 2015] [notice] Digest: done
+[Mon Aug 24 13:44:53 2015] [notice] FastCGI: process manager initialized (pid 3180)
+[Mon Aug 24 13:44:53 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Aug 24 13:44:56 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Mon Aug 24 19:21:46 2015] [notice] caught SIGTERM, shutting down
+[Mon Aug 24 19:50:51 2015] [notice] Digest: generating secret for digest authentication ...
+[Mon Aug 24 19:50:51 2015] [notice] Digest: done
+[Mon Aug 24 19:50:51 2015] [notice] FastCGI: process manager initialized (pid 6604)
+[Mon Aug 24 19:50:51 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Aug 24 23:54:49 2015] [notice] caught SIGTERM, shutting down
+[Tue Aug 25 12:18:14 2015] [notice] Digest: generating secret for digest authentication ...
+[Tue Aug 25 12:18:14 2015] [notice] Digest: done
+[Tue Aug 25 12:18:14 2015] [notice] FastCGI: process manager initialized (pid 1926)
+[Tue Aug 25 12:18:14 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Tue Aug 25 12:22:36 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/example.php
+[Tue Aug 25 17:03:31 2015] [notice] caught SIGTERM, shutting down
+[Wed Aug 26 10:39:30 2015] [notice] Digest: generating secret for digest authentication ...
+[Wed Aug 26 10:39:30 2015] [notice] Digest: done
+[Wed Aug 26 10:39:30 2015] [notice] FastCGI: process manager initialized (pid 1145)
+[Wed Aug 26 10:39:30 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Wed Aug 26 10:54:48 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/udp.php
+[Wed Aug 26 21:42:10 2015] [notice] caught SIGTERM, shutting down
+[Thu Aug 27 14:59:36 2015] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 27 14:59:36 2015] [notice] Digest: done
+[Thu Aug 27 14:59:36 2015] [notice] FastCGI: process manager initialized (pid 2346)
+[Thu Aug 27 14:59:36 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Thu Aug 27 15:05:06 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/udp.php
+[Thu Aug 27 17:50:36 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Thu Aug 27 22:28:56 2015] [notice] caught SIGTERM, shutting down
+[Fri Aug 28 10:52:14 2015] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 28 10:52:14 2015] [notice] Digest: done
+[Fri Aug 28 10:52:14 2015] [notice] FastCGI: process manager initialized (pid 1063)
+[Fri Aug 28 10:52:14 2015] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.4 Python/2.7.8 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Fri Aug 28 10:55:09 2015] [error] [client ::1] File does not exist: /Users/GaryZren/Desktop/bluetooth/public/favicon.ico, referer: http://localhost:8888/gifSpliter.php
+[Fri Aug 28 17:11:22 2015] [notice] caught SIGTERM, shutting down

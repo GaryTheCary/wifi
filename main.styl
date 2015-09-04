@@ -1,0 +1,102 @@
+@import 'jeet'
+@import 'client/util'
+@import 'client/color'
+@import 'client/font'
+
+edit()
+
+//define length 
+colSplit = 1/12
+btnColSplit = 1/4
+btmLevel = 999
+
+
+body
+	margin 0 
+	position absolute
+	width 100%
+	height 100%
+
+.pane
+	initialContainer()
+.leftCol
+	span(colSplit)
+	background-color darkPurple
+	level(btmLevel)
+		
+.rightCol
+	span(11/12)
+	background-color darkPurple
+	level(btmLevel)
+.rightCol > i
+	float right
+	
+.imageContainer
+	initialContainer()
+	background-color lightPurple
+	
+				
+.imageContent
+	center(30%)
+	width 100%
+	height 100%
+.imageContent > img 
+	width 100%
+	height 100%
+	margin-top 9%
+	margin-bottom 9%
+	position relative
+	
+	
+
+// Get a canvas to contain the image on the very top of the page	
+
+.imageContent > canvas
+	position relative
+	level(btmLevel)
+	
+.canvasContainer
+	width 100%
+	initialContainer()
+	margin 0px
+.canvasContainer > img
+	max-width 100%	
+
+.btnContainer
+	center(100%)
+	width 100%
+	level(3)
+	margin-top 2.5%
+
+.deviceBtn
+	col(btnColSplit)
+	text-align center
+	font() 
+	
+.uploadImageBtn
+	@extends .deviceBtn
+	margin-top 1.3rem
+
+.disconnectBtn
+	@extends .uploadImageBtn	
+		
+.sendImageBtn
+	@extends .deviceBtn
+
+.btnDes
+	margin-left -0.25rem
+	
+// A temporary div for storing text message
+
+#message
+	width 100%
+	text-align center
+	font()		
+	 
+		
+			 
+	
+			
+	 
+	
+						

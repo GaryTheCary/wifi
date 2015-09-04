@@ -1,0 +1,78 @@
+@import 'jeet'
+@import 'client/util'
+@import 'client/color'
+@import 'client/font'
+
+
+splitCol = 1/2
+bp = 515px
+
+p
+    font()
+    font-size 1.2rem
+    margin-top 5%
+label
+    font()        
+
+.container
+    initialContainer()
+    background-color lightPurple    
+.content
+    center(40%)
+    width 100%
+    height 100%
+.onReady
+    text-align center
+    margin-top 9.0%
+    margin-bottom 9%
+    +above(bp)
+      span(splitCol)
+
+    +below(bp)
+      stack()
+   
+.onCancel
+    text-align center
+    margin-top 9.0%
+    margin-bottom 9%
+    +above(bp)
+      span(splitCol)
+    +below(bp)
+      stack()
+
+.selectPaneContainer
+    center(100%)
+    background-color warmYellow
+    height 100%
+
+.toggleContent
+    center(70%)
+    height auto
+    text-align center
+.toggleContent > div
+    margin-top 2%
+.toggleContent > label
+    
+
+.btnMenuContainer
+    center(100%)
+    width 100%
+    level(3)
+    margin 0
+    background-color warmYellow
+
+.uploadBtn
+    col(splitCol)
+    text-align center
+    font
+.sendBtn
+    @extends .uploadBtn         
+    
+#_matrix
+    // display none    
+         
+
+             
+
+        
+    
